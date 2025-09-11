@@ -49,7 +49,7 @@ Syncfusion Charts provide robust options for customizing tooltips, enhancing dat
     For more details on `TooltipTemplate`, refer to the [Tooltip in .NET MAUI Toolkit| Syncfusion](https://help.syncfusion.com/maui-toolkit/circular-charts/tooltip#template) documentation.
 
 After executing these code examples, we will get the output that resembles the following image.
-![Presentation_doughnut_chart]()  
+![Presentation_doughnut_chart](https://github.com/user-attachments/assets/4b7337c1-8723-433f-bcd9-3730edd2ab41)
 
 ## Troubleshooting
 
