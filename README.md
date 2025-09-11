@@ -1,0 +1,2 @@
+# Personalize-Doughnut-Charts-in-.NET-MAUI-Using-Syncfusion-Toolkit-for-Better-User-Experience
+Discover how to effectively visualize and deeply customize the Syncfusion .NET MAUI Toolkit Doughnut Chart using real-world freshwater resource data. Learn to implement various customization options like CapStyle, GapRatio, angle customization, and CenterView to enhance data representation and user interaction.
