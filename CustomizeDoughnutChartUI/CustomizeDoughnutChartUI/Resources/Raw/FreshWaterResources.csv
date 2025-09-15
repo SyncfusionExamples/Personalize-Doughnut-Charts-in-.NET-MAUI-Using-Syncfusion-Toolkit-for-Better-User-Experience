@@ -1,0 +1,184 @@
+Country,CubicMeters,IconName,IconColor
+Brazil,5661,brazil.png,#4dacff
+Russia,4312,russia.png,#953aff
+Canada,2850,canada.png,#fc8b69
+USA,2818,usa.png,#ff6666
+China,2813,china.png,#6fd964
+Colombia,2145,colombia.png,#ffe645
+Indonesia,2019,indonesia.png,#3b86ff
+Peru,1641,peru.png,#fd4d32
+India,1446,india.png,#f4b53f
+Myanmar,1003,myanmar.png,#64d7a0
+Congo  Dem Rep,900,other.png,#cccccc
+Chile,885,other.png,#cccccc
+Venezuela RB,805,other.png,#cccccc
+Papua New Guinea,801,other.png,#cccccc
+Malaysia,580,other.png,#cccccc
+Australia,492,other.png,#cccccc
+Philippines,479,other.png,#cccccc
+Ecuador,442,other.png,#cccccc
+Japan,430,other.png,#cccccc
+Mexico,409,other.png,#cccccc
+Norway,382,other.png,#cccccc
+Viet Nam,359,other.png,#cccccc
+Madagascar,337,other.png,#cccccc
+New Zealand,327,other.png,#cccccc
+Bolivia,304,other.png,#cccccc
+Argentina,292,other.png,#cccccc
+Cameroon,273,other.png,#cccccc
+Guyana,241,other.png,#cccccc
+Turkiye,227,other.png,#cccccc
+Guinea,226,other.png,#cccccc
+Thailand,225,other.png,#cccccc
+Congo Rep,222,other.png,#cccccc
+Nigeria,221,other.png,#cccccc
+Liberia,200,other.png,#cccccc
+France,200,other.png,#cccccc
+Nepal,198,other.png,#cccccc
+Lao PDR,190,other.png,#cccccc
+Italy,183,other.png,#cccccc
+Sweden,171,other.png,#cccccc
+Iceland,170,other.png,#cccccc
+Gabon,164,other.png,#cccccc
+Sierra Leone,160,other.png,#cccccc
+Nicaragua,156,other.png,#cccccc
+Angola,148,other.png,#cccccc
+United Kingdom,145,other.png,#cccccc
+Central African Republic,141,other.png,#cccccc
+Panama,137,other.png,#cccccc
+Iran  Islamic Rep,129,other.png,#cccccc
+Ethiopia,122,other.png,#cccccc
+Cambodia,121,other.png,#cccccc
+Paraguay,117,other.png,#cccccc
+Costa Rica,113,other.png,#cccccc
+Spain,111,other.png,#cccccc
+Guatemala,109,other.png,#cccccc
+Germany,107,other.png,#cccccc
+Finland,107,other.png,#cccccc
+Bangladesh,105,other.png,#cccccc
+Mozambique,100,other.png,#cccccc
+Suriname,99,other.png,#cccccc
+Uruguay,92,other.png,#cccccc
+Honduras,91,other.png,#cccccc
+Tanzania,84,other.png,#cccccc
+Zambia,80,other.png,#cccccc
+Bhutan,78,other.png,#cccccc
+Cote d'Ivoire,77,other.png,#cccccc
+Korea  Dem People's Rep,67,other.png,#cccccc
+Korea  Rep,65,other.png,#cccccc
+Kazakhstan,64,other.png,#cccccc
+Tajikistan,63,other.png,#cccccc
+Mali,60,other.png,#cccccc
+Georgia,58,other.png,#cccccc
+Greece,58,other.png,#cccccc
+Ukraine,55,other.png,#cccccc
+Austria,55,other.png,#cccccc
+Pakistan,55,other.png,#cccccc
+Poland,54,other.png,#cccccc
+Sri Lanka,53,other.png,#cccccc
+Ireland,49,other.png,#cccccc
+Kyrgyz Republic,49,other.png,#cccccc
+Afghanistan,47,other.png,#cccccc
+South Africa,45,other.png,#cccccc
+Solomon Islands,45,other.png,#cccccc
+Romania,42,other.png,#cccccc
+Switzerland,40,other.png,#cccccc
+Uganda,39,other.png,#cccccc
+Cuba,38,other.png,#cccccc
+Portugal,38,other.png,#cccccc
+Croatia,38,other.png,#cccccc
+Bosnia and Herzegovina,36,other.png,#cccccc
+Iraq,35,other.png,#cccccc
+Mongolia,35,other.png,#cccccc
+Belarus,34,other.png,#cccccc
+Ghana,30,other.png,#cccccc
+Morocco,29,other.png,#cccccc
+Fiji,29,other.png,#cccccc
+Albania,27,other.png,#cccccc
+South Sudan,26,other.png,#cccccc
+Equatorial Guinea,26,other.png,#cccccc
+Senegal,26,other.png,#cccccc
+Dominican Republic,24,other.png,#cccccc
+Bulgaria,21,other.png,#cccccc
+Kenya,21,other.png,#cccccc
+Slovenia,19,other.png,#cccccc
+Latvia,17,other.png,#cccccc
+Uzbekistan,16,other.png,#cccccc
+Malawi,16,other.png,#cccccc
+Guinea-Bissau,16,other.png,#cccccc
+El Salvador,16,other.png,#cccccc
+Lithuania,15,other.png,#cccccc
+Belize,15,other.png,#cccccc
+Chad,15,other.png,#cccccc
+Czechia,13,other.png,#cccccc
+Haiti,13,other.png,#cccccc
+Estonia,13,other.png,#cccccc
+Slovak Republic,13,other.png,#cccccc
+Burkina Faso,13,other.png,#cccccc
+Zimbabwe,12,other.png,#cccccc
+Belgium,12,other.png,#cccccc
+Togo,12,other.png,#cccccc
+Algeria,11,other.png,#cccccc
+Netherlands,11,other.png,#cccccc
+Jamaica,11,other.png,#cccccc
+Benin,10,other.png,#cccccc
+Burundi,10,other.png,#cccccc
+Vanuatu,10,other.png,#cccccc
+Rwanda,10,other.png,#cccccc
+Brunei Darussalam,9,other.png,#cccccc
+Serbia,8,other.png,#cccccc
+Timor-Leste,8,other.png,#cccccc
+Azerbaijan,8,other.png,#cccccc
+Syrian Arab Republic,7,other.png,#cccccc
+Puerto Rico (US),7,other.png,#cccccc
+Armenia,7,other.png,#cccccc
+Namibia,6,other.png,#cccccc
+Denmark,6,other.png,#cccccc
+Somalia,6,other.png,#cccccc
+Hungary,6,other.png,#cccccc
+North Macedonia,5,other.png,#cccccc
+Lesotho,5,other.png,#cccccc
+Lebanon,5,other.png,#cccccc
+Tunisia,4,other.png,#cccccc
+Sudan,4,other.png,#cccccc
+Trinidad and Tobago,4,other.png,#cccccc
+Niger,4,other.png,#cccccc
+Gambia ,3,other.png,#cccccc
+Eritrea,3,other.png,#cccccc
+Mauritius,3,other.png,#cccccc
+Eswatini,3,other.png,#cccccc
+Saudi Arabia,2,other.png,#cccccc
+Botswana,2,other.png,#cccccc
+Sao Tome and Principe,2,other.png,#cccccc
+Yemen Rep,2,other.png,#cccccc
+Moldova,2,other.png,#cccccc
+Turkmenistan,1,other.png,#cccccc
+Oman,1,other.png,#cccccc
+Comoros,1,other.png,#cccccc
+Egypt Arab Rep,1,other.png,#cccccc
+Luxembourg,1,other.png,#cccccc
+West Bank and Gaza,1,other.png,#cccccc
+Cyprus,1,other.png,#cccccc
+Israel,1,other.png,#cccccc
+Libya,1,other.png,#cccccc
+Bahamas,1,other.png,#cccccc
+Jordan,1,other.png,#cccccc
+Singapore,1,other.png,#cccccc
+Mauritania,0,other.png,#cccccc
+Andorra,0,other.png,#cccccc
+St. Lucia,0,other.png,#cccccc
+Djibouti,0,other.png,#cccccc
+Cabo Verde,0,other.png,#cccccc
+Dominica,0,other.png,#cccccc
+Grenada,0,other.png,#cccccc
+United Arab Emirates,0,other.png,#cccccc
+St. Vincent and the Grenadines,0,other.png,#cccccc
+Barbados,0,other.png,#cccccc
+Qatar,0,other.png,#cccccc
+Antigua and Barbuda,0,other.png,#cccccc
+Malta,0,other.png,#cccccc
+Maldives,0,other.png,#cccccc
+St. Kitts and Nevis,0,other.png,#cccccc
+Nauru,0,other.png,#cccccc
+Bahrain,0,other.png,#cccccc
+Kuwait,0,other.png,#cccccc
