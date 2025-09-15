@@ -14,6 +14,7 @@ namespace CustomizeDoughnutChartUI
                 string s when Color.TryParse(s, out var c) => c,
                 _ => Colors.White
             };
+
             float ratio = parameter is string paramStr && float.TryParse(paramStr, out var paramVal) ? paramVal : Ratio;
             var white = Colors.White;
             return new Color(

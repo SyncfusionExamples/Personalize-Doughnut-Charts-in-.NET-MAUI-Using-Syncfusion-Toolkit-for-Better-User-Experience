@@ -86,6 +86,7 @@ namespace CustomizeDoughnutChartUI
                     "other.png",
                     Color.FromArgb("#cccccc")
                 );
+
                 FreshWaterResourcesData.Add(othersModel);
             }
         }
