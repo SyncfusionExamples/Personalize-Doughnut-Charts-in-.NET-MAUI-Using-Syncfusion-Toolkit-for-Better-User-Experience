@@ -92,7 +92,7 @@
                 </chart:SfCircularChart.Resources>
 
                 <chart:SfCircularChart.Title>
-                    <Grid>
+                    <Grid HorizontalOptions="Center">
                         <Grid.ColumnDefinitions>
                             <ColumnDefinition Width="Auto"/>
                             <ColumnDefinition Width="*"/>
