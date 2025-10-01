@@ -57,4 +57,4 @@ After executing these code examples, we will get the output that resembles the f
 
 If you encounter a "path too long" exception when building this example project, close Visual Studio and rename the repository to a shorter name, then rebuild the project.
 
-For a step-by-step procedure, refer to the [MAUI Doughnut Chart blog post]().
+For a step-by-step procedure, refer to the [MAUI Doughnut Chart blog post](https://www.syncfusion.com/blogs/post/dotnet-maui-doughnut-chart-customization).
